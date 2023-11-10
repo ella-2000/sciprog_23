@@ -1,0 +1,10 @@
+// to compile
+gcc -o use_printf use_printf.c
+
+gcc -o trap trap.c -lm
+
+//show print out of calculations
+./use_printf
+
+./trap
+
