@@ -1,0 +1,4 @@
+These are the codes for practical 2
+To compile:
+gcc -o conversion conversion.c -lm
+gcc -o sum sum.c -lm
