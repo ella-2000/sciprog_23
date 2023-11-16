@@ -1,0 +1,2 @@
+to complie
+gcc -o trap_deg trap_deg.c -lm 
