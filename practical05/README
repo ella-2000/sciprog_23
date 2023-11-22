@@ -1,0 +1,5 @@
+To compile: 
+
+gcc -o scanf scanf.c -lm
+gcc -o fib fibonacci.c -lm
+gcc -o arc arctanh.c -lm
