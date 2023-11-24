@@ -1,0 +1,15 @@
+To compile:
+option 1: in practical06 file
+gcc -o matmult matmult.c 
+./ matmult.c 
+
+option 2: in step6 file
+gcc -c main.c
+gcc -c matmult.c
+gcc -o matmultc main.o matmult.o
+./matmult.c
+
+option 3: in step6/c_code
+make
+./matmult 
+
