@@ -1,0 +1,3 @@
+To compile:
+gcc -o finde finde.c -lm
+gcc -o dynamicallocation dynamicallocation.c 
