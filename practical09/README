@@ -1,0 +1,7 @@
+To compile:
+gcc main.c -Wall
+
+./a.out
+
+You will be asked to enter a file name to test if it's a magic square
+magic_square.txt or not_magic_square.txt can be used from this directory
